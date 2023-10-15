@@ -146,8 +146,21 @@ body {
   .current-move {
     padding: 16px 32px;
   }
+ 
 }
-
+@media(max-width:500px){
+  .game{
+    flex-direction: column;
+  }
+  .game-board{
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .game-info{
+    min-width: 300px;
+  }
+}
 /* <!-- HTML !-->
 <button class="move" role="button">Button 19</button> */
 
