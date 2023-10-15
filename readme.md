@@ -8,3 +8,9 @@
 | Upload to a public host                                                | 1 point     | 1/1       
 |        Total                                                |         10 points    |    10/10        |
  Deployed Link: [https://advanced-web-homework1.vercel.app/]
+
+
+
+ ## How to run ?
+ run "npm init"
+ run "npm start"
